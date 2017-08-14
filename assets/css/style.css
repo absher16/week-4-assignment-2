@@ -1,0 +1,52 @@
+body {
+
+}
+
+.title {
+    font-size: 36px;
+    height: 100px;
+    width: 300px;
+    background-color: blue;
+    color: gold;
+}
+
+.instructions {
+    font-size: 14px;
+    width: 500px;
+    background-color: tan;
+    color: green;
+    margin: 10px;
+}
+
+.randomGoal {
+    height: 130px;
+    width: 200px;
+    background-color: purple;
+    color: gold;
+    margin: 10px;
+}
+
+.scoreBoard {
+    height: 130px;
+    width: 100px;
+    background-color: gold;
+    color: purple;
+    margin: 10px;
+}
+
+#gem1, #gem2, #gem3, #gem4 {
+    display: inline-block;
+  /*  width: 130px;
+    height: 130px; */
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.yourScore {
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    background color: red;
+    color: black;
+}
